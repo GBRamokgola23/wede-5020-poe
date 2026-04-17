@@ -48,6 +48,19 @@ Checked all links work. Tested on phone and computer. Fixed errors. Pushed all f
 ## References
   - Mothers2mothers (Available at) https://m2m.org/ . Healthier World. Accessed on : 01 April 2026)
     - SA non-profit reports ( Available at ) https://www.npo.gov.za/login:  Accessed on : 1 April 2026)
+   <h1> Images  
+Unsplash, 2024. Photo of mother and child. Available at: https://unsplash.com/photos/mother-child [Accessed 17 April 2026].
 
+Pexels, 2025. Group of women supporting each other. Available at: https://www.pexels.com/photo/women-group [Accessed 17 April 2026].
 
+Pixabay, 2023. Community meeting photo. Available at: https://pixabay.com/photos/community-meeting [Accessed 17 April 2026].
 
+Information  
+World Health Organization, 2024. Maternal mental health. Available at: https://www.who.int/news-room/fact-sheets/detail/mental-health [Accessed 17 April 2026].
+
+South African Government, 2023. Support for new mothers. Available at: https://www.gov.za/services/child-care [Accessed 17 April 2026].
+
+Fonts and Code  
+Google Fonts, 2026. Open Sans font family. Available at: https://fonts.google.com/specimen/Open+Sans [Accessed 17 April 2026].
+
+W3Schools, 2026. HTML and CSS tutorials. Available at: https://www.w3schools.com [Accessed 17 April 2026].

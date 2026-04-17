@@ -36,7 +36,7 @@ Week 2: Build HTML pages
 Created index.html, Our Impact.html, About us.html, Get Involved.html, and News Hub.html. Added headers, footers, and main content to each page.
 
 Week 3: Add CSS, images, and PDFs  
-Made http://style.css for all colours and fonts. Added photos to each page with alt text. Created 7 PDFs and put them in the downloads folder. Added all download links.
+Made used off style.css for all colours and fonts. Added photos to each page with alt text. Created 7 PDFs and put them in the downloads folder. Added all download links.
 
 Week 4: Test and upload  
 Checked all links work. Tested on phone and computer. Fixed errors. Pushed all files to GitHub. Wrote comments in the code using <!-- -->.

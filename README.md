@@ -46,9 +46,9 @@ Checked all links work. Tested on phone and computer. Fixed errors. Pushed all f
 <img src="img/My Sitemap 2026-04-16 152748.png"=alt=MySitemap >
 
 ## References
-  - Mothers2mothers (Available at) https://m2m.org/ . Healthier World. Accessed on : 01 April 2026)
-    - SA non-profit reports ( Available at ) https://www.npo.gov.za/login:  Accessed on : 1 April 2026)
-   <h1> Images  
+   Mothers2mothers (Available at) https://m2m.org/ . Healthier World. Accessed on : 01 April 2026)
+    SA non-profit reports ( Available at ) https://www.npo.gov.za/login:  Accessed on : 1 April 2026)
+   Images  
 Unsplash, 2024. Photo of mother and child. Available at: https://unsplash.com/photos/mother-child [Accessed 17 April 2026].
 
 Pexels, 2025. Group of women supporting each other. Available at: https://www.pexels.com/photo/women-group [Accessed 17 April 2026].

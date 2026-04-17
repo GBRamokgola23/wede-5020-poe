@@ -33,7 +33,7 @@ Week 1: Planning
 Chose Mother to Mother as the topic. Made a list of 5 pages. Drew the layout on paper.
 
 Week 2: Build HTML pages  
-Created http://(index.html), http://(<Our Impact.html>), http://(<About us.html>), http://(<Get Involved.html>), and http://s<News Hub.html>). Added headers, footers, and main content to each page.
+Created (index.html), (<Our Impact.html>), (<About us.html>), <Get Involved.html>), and (<News Hub.html>). Added headers, footers, and main content to each page.
 
 Week 3: Add CSS, images, and PDFs  
 Made http://style.css for all colours and fonts. Added photos to each page with alt text. Created 7 PDFs and put them in the downloads folder. Added all download links.

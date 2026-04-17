@@ -2,8 +2,8 @@
 Your project's title
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:** ST10492431<br>
+**Student Name:** Gomolemo Basetsana Ramokgola 
 
 ## Project Overview
 
@@ -19,7 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+<img src="img/My Sitemap 2026-04-16 152748.png"=alt=MySitemap >
 
 ## References
 

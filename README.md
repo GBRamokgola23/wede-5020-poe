@@ -6,19 +6,19 @@ Mothers2mothers
 
 ## Project Overview
 
-This is a website for Mother to Mother. It is a student project for WED5020. 
+This is a website for Mothers2Mothers. It is a student project for WED5020. 
 
-Mother to Mother helps new mothers by connecting them with experienced mothers. The website gives information about our work, shows our impact, and lets people get involved. 
+Mothers2Mothers helps new mothers by connecting them with experienced mothers. The website gives information about our work, shows our impact, and lets people get involved. 
 
 The website has 5 pages: Home, Impact, About Us, Get Involved, and News. All CSS and JavaScript are in separate files. All images have alt text and all PDFs can be downloaded.
 
 ## Website Goals and Objectives
 
 Main Goal:  
-To create a simple website that tells people about Mother to Mother and helps them get support or volunteer.
+To create a simple website that tells people about Mothers2Mothers and helps them get support or volunteer.
 
 Objectives:
-1. Give information - Show what Mother to Mother does and why it helps
+1. Give information - Show what Mothers2Mothers  does and why it helps
 2. Show results - Share numbers and stories about mothers we have helped
 3. Get people involved - Let visitors download forms to volunteer or donate  
 4. Share news - Post updates about events and partnerships
@@ -30,7 +30,7 @@ Objectives:
 This project was done in 4 weeks:
 
 Week 1: Planning  
-Chose Mother to Mother as the topic. Made a list of 5 pages. Drew the layout on paper.
+Chose Mothers2Mothers as the topic. Made a list of 5 pages. Drew the layout on paper.
 
 Week 2: Build HTML pages  
 Created index.html, Our Impact.html, About us.html, Get Involved.html, and News Hub.html. Added headers, footers, and main content to each page.

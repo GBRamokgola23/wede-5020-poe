@@ -45,6 +45,21 @@
             <a href="downloads/partnership details .pdf" target="_blank" class="btn">Download PDF</a>
         </div>
     </div>
+    <div class="card">
+  <h3>Enquiry Form</h3>
+  <form id="enquiryForm" action="https://formspree.io/f/your-id" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required minlength="3">
+    <input type="email" name="email" placeholder="Your Email" required>
+    <select name="type" required>
+      <option value="">I want to...</option>
+      <option value="volunteer">Volunteer</option>
+      <option value="sponsor">Sponsor</option>
+    </select>
+    <textarea name="message" placeholder="Your Message" required minlength="10"></textarea>
+    <button type="submit">Submit</button>
+    <div id="formResponse"></div>
+  </form>
+</div>
 </section>
     </main>
 <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;">

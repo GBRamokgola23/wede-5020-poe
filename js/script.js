@@ -144,3 +144,27 @@ document.addEventListener("DOMContentLoaded", function() {
   setInterval(updateDateTime, 1000);
 
 }); // end DOMContentLoaded
+document.addEventListener('DOMContentLoaded', () => {
+  const enquiryForm = document.getElementById('enquiryForm');
+  if (enquiryForm) {
+    enquiryForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!enquiryForm.checkValidity()) { enquiryForm.reportValidity(); return; }
+      
+      const data = Object.fromEntries(new FormData(enquiryForm).entries());
+      const msg = data.type === 'sponsor' 
+        ? `Thanks ${data.name}! Sponsorship starts at R500/month.`
+        : `Thanks ${data.name}! Next intake is 15 Nov.`;
+      
+      document.getElementById('formResponse').textContent = msg;
+      enquiryForm.reset();
+    });
+  }
+
+  const contactForm = document.getElementById('contactForm');
+  if (contactForm) {
+    contactForm.addEventListener('submit', (e) => {
+      if (!contactForm.checkValidity()) { e.preventDefault(); contactForm.reportValidity(); }
+    });
+  }
+});

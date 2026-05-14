@@ -49,6 +49,11 @@ Checked all links work. Tested on phone and computer. Fixed errors. Pushed all f
 - Made site responsive for mobile and tablet
 - Tested all links and PDF downloads
 - Fixed CSS and image path errors
+### 2025-10-05 - Part 3 Submission
+- Added AJAX form submission to get-involved.html using Formspree
+- Added client-side validation to contact form on about.html
+- Added robots.txt and sitemap.xml for SEO
+
 
 ## References
    Mothers2mothers (Available at) https://m2m.org/ . Healthier World. Accessed on : 01 April 2026)
@@ -75,3 +80,5 @@ The following resources were used during Part 3 development:
 - W3Schools for JavaScript form validation patterns  
 - CSS Tricks for lightbox CSS techniques
 - GitHub Docs for Git commit and tagging best practices
+- MDN Web Docs: Form Validation
+- Formspree Documentation

@@ -43,3 +43,8 @@ Example: 2.1.3
 
 ### Fixed
 - Resolved console errors from missing script references
+### References
+- MDN Web Docs. (2024). Document Object Model (DOM). Retrieved from https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+- MDN Web Docs. (2024). LocalStorage API. Retrieved from https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+- W3Schools. (2024). JavaScript Form Validation. Retrieved from https://www.w3schools.com/js_validation.asp
+- CSS Tricks. (2023). Creating a Lightbox Effect. Retrieved from https://css-tricks.com/

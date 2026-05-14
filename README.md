@@ -69,3 +69,9 @@ Fonts and Code
 Google Fonts, 2026. Open Sans font family. Available at: https://fonts.google.com/specimen/Open+Sans [Accessed 17 April 2026].
 
 W3Schools, 2026. HTML and CSS tutorials. Available at: https://www.w3schools.com [Accessed 17 April 2026].
+## References & Resources
+The following resources were used during Part 3 development:
+- MDN Web Docs for DOM manipulation and localStorage implementation
+- W3Schools for JavaScript form validation patterns  
+- CSS Tricks for lightbox CSS techniques
+- GitHub Docs for Git commit and tagging best practices

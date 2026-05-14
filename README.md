@@ -45,6 +45,11 @@ Checked all links work. Tested on phone and computer. Fixed errors. Pushed all f
 
 <img src="img/My Sitemap 2026-04-16 152748.png"=alt=MySitemap >
 
+## Part 2 Updates
+- Made site responsive for mobile and tablet
+- Tested all links and PDF downloads
+- Fixed CSS and image path errors
+
 ## References
    Mothers2mothers (Available at) https://m2m.org/ . Healthier World. Accessed on : 01 April 2026)
     SA non-profit reports ( Available at ) https://www.npo.gov.za/login:  Accessed on : 1 April 2026)

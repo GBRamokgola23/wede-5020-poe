@@ -1,2 +1,9 @@
-// WED5020 Part 1 - JavaScript file
-// No code required yet
+* text=auto
+*.css text
+*.html text
+*.md text
+*.pdf binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary

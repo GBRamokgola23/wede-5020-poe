@@ -112,3 +112,33 @@ document.addEventListener("DOMContentLoaded", function() {
   revealOnScroll();
 
 });
+// 6. LIVE CLOCK & CALENDAR
+const clockEl = document.getElementById("liveClock");
+const dateEl = document.getElementById("liveDate");
+
+function updateDateTime() {
+  const now = new Date();
+  
+  // Time: HH:MM:SS
+  const time = now.toLocaleTimeString('en-ZA', { 
+    hour: '2-digit', 
+    minute: '2-digit', 
+    second: '2-digit',
+    hour12: false 
+  });
+  
+  // Date: Weekday, DD Month YYYY
+  const date = now.toLocaleDateString('en-ZA', { 
+    weekday: 'long', 
+    day: '2-digit', 
+    month: 'long', 
+    year: 'numeric' 
+  });
+  
+  if (clockEl) clockEl.textContent = time;
+  if (dateEl) dateEl.textContent = date;
+}
+
+// Update immediately, then every second
+updateDateTime();
+setInterval(updateDateTime, 1000);

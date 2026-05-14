@@ -266,3 +266,139 @@ img:hover {
 }
 .gallery-img { cursor: pointer; transition: 0.3s; }
 .gallery-img:hover { opacity: 0.8; }
+/* ===== Part 3 Extra Styles ===== */
+
+/* Contact Form */
+#contactForm input, 
+#contactForm textarea {
+  width: 100%; 
+  padding: 10px; 
+  margin: 8px 0; 
+  border-radius: 5px; 
+  border: 1px solid #ccc;
+  font-family: inherit;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+#contactForm button, 
+.pdf-btn {
+  background: #c2185b; 
+  color: white; 
+  padding: 10px 20px;
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer;
+  display: inline-block; 
+  margin: 5px 0; 
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+#contactForm button:hover, 
+.pdf-btn:hover {
+  background: #a0154a;
+  transform: translateY(-2px);
+}
+
+/* Image Gallery */
+.gallery-img { 
+  cursor: pointer; 
+  transition: 0.3s; 
+  border-radius: 8px;
+}
+
+.gallery-img:hover { 
+  opacity: 0.8; 
+  transform: scale(1.03);
+}
+
+/* Lightbox */
+#lightbox {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#lightboxClose {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  color: white;
+  font-size: 40px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+#lightboxClose:hover {
+  color: #c2185b;
+}
+
+#lightboxImg {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 8px;
+}
+
+/* Dark Mode */
+.dark-mode {
+  background: #121212;
+  color: #f1f1f1;
+}
+
+.dark-mode a { 
+  color: #ff6fa3; 
+}
+
+.dark-mode .content-section,
+.dark-mode header,
+.dark-mode footer {
+  background: #1e1e1e;
+  border-color: #333;
+}
+
+.dark-mode input,
+.dark-mode textarea {
+  background: #2a2a2a;
+  color: #f1f1f1;
+  border-color: #444;
+}
+
+.dark-mode #darkToggle {
+  background: #ff6fa3;
+  color: #121212;
+}
+
+/* Scroll Reveal - initial state set by JS */
+section, 
+h1, h2, 
+.content-section, 
+.pdf-section {
+  will-change: opacity, transform;
+}
+
+/* Dark Mode Toggle Button Hover */
+#darkToggle:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
+
+/* PDF Section */
+.pdf-section {
+  margin-top: 20px;
+}
+
+.pdf-btn {
+  margin: 8px 0;
+  display: block;
+  width: fit-content;
+}
